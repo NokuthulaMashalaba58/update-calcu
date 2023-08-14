@@ -1,0 +1,19 @@
+body{
+    padding: 30;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.calculater{
+    height: 300px;
+    width: 300px;
+    border: solid 20px;
+    background-color: blue;
+
+}
+.button{
+    border-radius: 50px;
+    padding: 30px;
+}
